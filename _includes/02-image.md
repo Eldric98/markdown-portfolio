@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![LSE](https://images.app.goo.gl/jE9KFVizQqFtiujo6)
